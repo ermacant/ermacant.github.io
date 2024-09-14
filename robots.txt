@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ermacant.github.io/sitemap.html.gz
+Sitemap: https://ermacant.github.io/app/sitemap.html.gz
+Sitemap: https://ermacant.github.io/assets/sitemap.html.gz
+Sitemap: https://ermacant.github.io/css/sitemap.html.gz
+Sitemap: https://ermacant.github.io/includes/sitemap.html.gz
+Sitemap: https://ermacant.github.io/item/sitemap.html.gz
+Sitemap: https://ermacant.github.io/src/sitemap.html.gz
